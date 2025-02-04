@@ -14,6 +14,25 @@
 
 ---
 
+## 📸 Project Screenshots
 
+### 🏠 Home Page
+![Home Page](images/img1.png)
 
+### 🔐 Sign In Page
+![Sign In Page](images/img2.png)
 
+### 📚 My Courses
+![My Courses](images/img3.png)
+
+### 🎯 Practice Modules
+![Practice Modules](images/img4.png)
+
+### 📋 Course Details
+![Course Details](images/img5.png)
+
+### 🤖 Study Buddy Feature
+![Study Buddy](images/img6.png)
+
+### ✅ Assessment Results
+![Assessment Results](images/img7.png)
